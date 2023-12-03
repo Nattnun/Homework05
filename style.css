@@ -91,6 +91,11 @@ button {
   margin-bottom: 1rem;
   border: none;
   border-radius: 1rem;
+  transition: background-color 0.5s;
+}
+
+button:hover {
+  background-color: aquamarine;
 }
 
 .icon-bar {
